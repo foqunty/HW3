@@ -1,0 +1,14 @@
+/Users/sedatcoban/Desktop/HW3/bin/Debug/net10.0/HW3
+/Users/sedatcoban/Desktop/HW3/bin/Debug/net10.0/HW3.deps.json
+/Users/sedatcoban/Desktop/HW3/bin/Debug/net10.0/HW3.runtimeconfig.json
+/Users/sedatcoban/Desktop/HW3/bin/Debug/net10.0/HW3.dll
+/Users/sedatcoban/Desktop/HW3/bin/Debug/net10.0/HW3.pdb
+/Users/sedatcoban/Desktop/HW3/obj/Debug/net10.0/HW3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sedatcoban/Desktop/HW3/obj/Debug/net10.0/HW3.AssemblyInfoInputs.cache
+/Users/sedatcoban/Desktop/HW3/obj/Debug/net10.0/HW3.AssemblyInfo.cs
+/Users/sedatcoban/Desktop/HW3/obj/Debug/net10.0/HW3.csproj.CoreCompileInputs.cache
+/Users/sedatcoban/Desktop/HW3/obj/Debug/net10.0/HW3.dll
+/Users/sedatcoban/Desktop/HW3/obj/Debug/net10.0/refint/HW3.dll
+/Users/sedatcoban/Desktop/HW3/obj/Debug/net10.0/HW3.pdb
+/Users/sedatcoban/Desktop/HW3/obj/Debug/net10.0/HW3.genruntimeconfig.cache
+/Users/sedatcoban/Desktop/HW3/obj/Debug/net10.0/ref/HW3.dll
